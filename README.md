@@ -9,4 +9,4 @@ Quando o sistema está em equilíbrio térmico, a rede cristalina e os spins ter
 
 A característica distintiva da maioria das transições de fase é o parâmetro de ordem, ou seja, de alguma propriedade do sistema que é diferente de zero na fase ordernada, mas nula na fase desordadena. No caso do sistem Ising bidimensional, o parâmetro de ordem nesse sistema é definido como o a magnetização por spin da rede cristalina:
 
-$$ m = \frac{1}{N} \left\langle \sum_{i = 1}^{N} s_i \right\rangle$$.
+$$ m = \frac{1}{N} \left\langle \sum_{i = 1}^{N} s_i \right\rangle $$
