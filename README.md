@@ -1,3 +1,3 @@
-# 2d-Ising-model-in-python
+# Modelo Ising 2d em python
 
 Modelo Ising bidimensional escrito na linguagem de programação python.
